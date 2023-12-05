@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Srinivas Vasala
 
 # 💫 About Me:
-Backend developer with experience in Java, Python, and data structures and algorithms.<br>Currently leading the backend development.<br>Passionate about creating efficient and scalable solutions that help businesses grow.<br>Enjoys working on personal coding projects and learning new programming languages.<br><br>
+FullStack Java developer with experience in Java and data structures and algorithms.<br>Currently leading the backend development.<br>Passionate about creating efficient and scalable solutions that help businesses grow.<br>Enjoys working on personal coding projects and learning new programming languages.<br><br>
 
 
 ## 🌐 Socials:
